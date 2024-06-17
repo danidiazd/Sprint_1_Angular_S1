@@ -1,7 +1,4 @@
 # IT Academy Specialization [ Sprint 01 ]
-
-[![IT Academy](assets/git-screenshot.png)](https://codenaud.github.io/sprint-01/)
-
 ## Description
 
 Welcome to Sprint 01 of the IT Academy Specialization!
@@ -48,16 +45,4 @@ Build with
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## Acknowledgments
 
-Sprint 01 is made possible by the amazing IT Academy community and its vibrant Discord group.
-
-## About Me
-
-I'm a junior web developer with a passion for turning wireframes into beautiful web layouts. I'm here to share the knowledge I've gained with everyone who's on a similar journey.
-
-## Contact
-
-If you have any questions or suggestions, feel free to reach out to me via email: [codenaud@gmail.com](mailto:codenaud@gmail.com).
-
-Happy coding! 🚀
